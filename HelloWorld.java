@@ -3,6 +3,6 @@ class HelloWorld{
 
 public static void main(String []args){
 
-System.out.println("Hello World in GIT");
+System.out.println("Hey Hello World in GIT");
 }
 }
